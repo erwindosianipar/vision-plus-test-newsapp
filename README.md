@@ -34,4 +34,10 @@ https://60a4954bfbd48100179dc49d.mockapi.io/api/innocent/newsapp/articles
 
 ### Screenshot
 
-_Insert screenshots here_
+Image | Image | Image
+-- | -- | --
+![Image](/screenshots/1.png) | ![Image](/screenshots/2.png) | ![Image](/screenshots/3.png)
+
+Image | Image | Image
+-- | -- | --
+![Image](/screenshots/4.png) | ![Image](/screenshots/5.png) | ![Image](/screenshots/6.png)
